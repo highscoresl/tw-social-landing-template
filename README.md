@@ -1,4 +1,4 @@
-# Tailwind CSS Playground
+# Social App Landing Page
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment.
 
